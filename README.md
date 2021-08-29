@@ -14,7 +14,7 @@ We have built two versions of this project, both provide said analysis with the 
  ___2017 (left) vs. 2018 (right)___
 </div>
 
-For the stock performance analysis, 2017 was generally better vs. 2018. In 2017, outstanding performances can be seen with 'DQ' & 'SEDG' nearly gaining a 200% increase in return and almost every other stock saw positive increases except for 'TERP.' It terms of volume traded, top performer is 'SPWR' with 'FSLR' running in second, which may mean these were popular with the public. With Steve's parents pestering him about 'DQ's stock, looking at 2017 alone, it might be a good idea to invest in it however a year's worth of data might not be enough.
+For the stock performance analysis, 2017 was generally better vs. 2018. In 2017, outstanding performances can be seen with 'DQ' & 'SEDG' nearly gaining a 200% increase in return and almost every other stock saw positive increases except for 'TERP.' In terms of volume traded, top performer is 'SPWR' with 'FSLR' running in second, which may mean these were popular with the public. With Steve's parents pestering him about 'DQ's stock, looking at 2017 alone, it might be a good idea to invest in it however a year's worth of data might not be enough.
 
 In 2018, almost every stock had a negative outlook except for 'ENPH' & 'RUN.' Every stock either saw an increase or decrease in traded volumes but these two said stocks had the largest increases which could be attributed to its success. If these stocks had positive outlooks for 2 consecutive years, we can definitely suggest to invest in 'ENPH' & 'RUN' to Steve's parents.
 
