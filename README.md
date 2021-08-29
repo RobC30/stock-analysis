@@ -29,6 +29,9 @@ _See image below for original code details:_
 <br>
 ![image](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/code.PNG)
 <br>
+
+![alt-text-1](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/orig_runtime2017.png) ![alt-text-2](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/orig_runtime2018.png)
+
 <br>
 
 ## Refactored Macro
@@ -44,7 +47,7 @@ _See image below for refactored code:_
 
 _See images below for refactored code runtimes:_
 
-![alt-text-1](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/runtime2017.png) ![alt-text-2](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/runtime2018.png)
+![alt-text-1](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/refactored_runtime2017.png) ![alt-text-2](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/refactored_runtime2018.png)
 
 
 ## <div align="center">__Summary__</div>
