@@ -48,4 +48,8 @@ _See images below for refactored code runtimes:_
 
 ## <div align="center">__Summary__</div>
 - Refactoring code gives the possibilty of running it more efficient, giving shorter runtimes on analyzing data. Refactoring will definitely help on larger sets of data but dealing with a small dataset, it might not be worth a coder's time. The given dataset is a great example, with the original code providing results in less than a second even if the refactored code slashes the runtime by fractions.
+<<<<<<< HEAD
 - Refactoring an existing _VBA script_ can give you a side-by-side comparison between it & the existing script. One can create a roadmap on which areas of code could be improved increasing efficiency by creating more arrays, cleaner coding & etc. However, if one does not fully understand the syntax of an existing code, there will be a chance of making a perfectly running script into an unstable & unusable one.
+=======
+- Refactoring an existing _VBA script_ can give you a side-by-side comparison between it & the existing script. One can create a roadmap on which areas of code could be improved increasing efficiency by creating more arrays, cleaner coding & etc. However, if one does not fully understand the syntax of an existing code, there will be a chance of making a perfectly running script into an unstable & unusable one.
+>>>>>>> 71b16b2c41d14db943b0b764810308f84b30c3d2
