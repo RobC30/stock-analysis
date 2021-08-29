@@ -24,14 +24,20 @@ The key difference between the two VBA scripts is the use of indices and arrays.
 ## Original Macro
 It was given a timer on how quickly it can run _3,000_ lines of data. For the year 2017, it ran in __0.6445313 seconds__ and for the year 2018, it ran in __0.7128906__ seconds. Now this might seem a good time in running the analysis, however if given a bigger set of data to handle it might become inefficient.
 
-_See image below for original macro details:_
+_See image below for original code details:_
 <br>
-![image](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/code2.PNG)
+![image](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/code.PNG)
 <br>
 <br>
 
 ## Refactored Macro
 For the refactored VBA script, we still went through each tickers but added new arrays for the code by using nested loops & assigning variables to said arrays. We introduced three new arrays for _Volumes Traded, Staring & Ending Prices_. For the years 2017 & 2018, it ran in __0.0859375__ seconds. This runs the analyis in a fraction of the original time establishing a more efficient code. It will analyze bigger data sets on a shorter time.
+
+<br>
+
+_See image below for refactored code:_
+
+![image](https://raw.githubusercontent.com/RobC30/stock-analysis/main/Resources/code2.PNG)
 
 <BR>
 
